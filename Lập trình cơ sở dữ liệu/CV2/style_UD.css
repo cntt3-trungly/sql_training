@@ -1,0 +1,29 @@
+﻿.pagecontent
+{
+	display:block;
+	width: 100%;
+}
+.pagecontent .title
+{
+	display: block;
+	font-size: x-large;
+	color: Blue;
+	float: none;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.pagecontent .tablebutton
+{
+	display: block;
+	font-size: medium;
+	font-weight: bold;
+	float: none;
+	margin-bottom: 5px;
+}
+.pagecontent .tablecontent
+{
+	display:block;
+	font-size:x-large;
+	color:Blue;
+	float: none;
+}
